@@ -1,0 +1,19 @@
+# Ecological Datasets
+
+We selected a set of biophysical and species indicators for the first phase of the project to demonstrate a sample of what is possible. To be considered, indicators needed to be available as vector or raster datasets covering most or all of boreal region of Canada. Indicators include:
+
+Biophysical attributes (CMI, GPP, LED, LCC – acronyms explained in spreadsheet)
+
+Songbird species density for 13 species (BLBW, BLPW, BTNW, CAWA, CMWA, HETH, LESP, OCWA, OSFL, PISI, PUFI, RUBL, WIWA); defined as the potential number of singing males per ha based on models relating bird observations to underlying environmental variables (Stralberg et al. 2015). These models were built based on climatic variables and some coarse land cover variables; they do not account for forest management history.
+
+Songbird species core habitat for 13 species (BLBW, BLPW, BTNW, CAWA, CMWA, HETH, LESP, OCWA, OSFL, PISI, PUFI, RUBL, WIWA), defined as areas with density greater than mean density within this study area (boreal region defined by ecozones + Alaska), based on the above density models (Stralberg et al. 2015).
+
+Forest songbirds group (density and core habitat), created by taking the average value of 53 species identified as being forest associated (Stralberg et al. 2015).
+
+Waterfowl species density for 17 species or small species groups (ABDU; AGWT; AMWI; BUFF; BWTE; CANV; GADW; MALL; NOPI; NSHO; REDH; RNDU; RUDU; goldeneye species; scoter species; merganser species; scaup species); defined as the relative density of ducks per km<sup>2</sup>, estimated from models relating duck observations to underlying environmental variables (Barker et al. 2014). These models were built based on climatic variables, landcover, and topographic variables; they do not account for forest management history.
+
+Waterfowl guilds density (cavity nesters, over-water nesters, ground nesters, total waterfowl); defined as sums of the relative densities for groups of the above individual maps (from Barker et al. 2014).
+
+<center><a target="_blank" href=https://docs.google.com/spreadsheets/d/1Pdgm0Wf8DcOrcZa8hflnrAH48WenJZVnBe8Hxm8j1gY/edit#gid=0>CLICK HERE TO VIEW DATASETS IN A NEW TAB</a></center>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1Pdgm0Wf8DcOrcZa8hflnrAH48WenJZVnBe8Hxm8j1gY/edit#gid=0" width="100%" height="800px"></iframe>

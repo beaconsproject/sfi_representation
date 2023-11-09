@@ -1,0 +1,52 @@
+Group,Name,Description,Resolution,Min,Mean,Median,Max
+Biophysical,CMI,Climate moisture index,10 km,-14.283,28.433,20.76,212.59
+,GPP,Gross primary productivity,1 km,0.005,0.61,0.601,1.871
+,LED,Lake-edge density,1 km,0,0.164,0.096,1.484
+,LCC,Land cover map of Canada 2005,250 m,0,NA,NA,39
+Songbird density,BLBW,Blackburnian Warbler,4 km,0.001,0.022,0.006,0.636
+,BLPW,Blackpoll Warbler,4 km,0,0.197,0.075,25.187
+,BTNW,Black-throated Green Warbler,4 km,0.002,0.017,0.007,0.26
+,CAWA,Canada Warbler,4 km,0.002,0.009,0.004,0.303
+,CMWA,Cape May Warbler,4 km,0.003,0.034,0.014,1.044
+,HETH,Hermit Thrush,4 km,0.011,0.066,0.061,0.529
+,LCSP,Le Conte's Sparrow,4 km,0,0.003,0.002,0.159
+,OCWA,Orange-crowned Warbler,4 km,0.009,0.073,0.056,0.61
+,OSFL,Olive-sided Flycatcher,4 km,0.002,0.006,0.005,0.039
+,PISI,Pine Siskin,4 km,0.015,0.089,0.047,5.781
+,PUFI,Purple Finch,4 km,0.003,0.014,0.01,0.136
+,RUBL,Rusty Blackbird,4 km,0.002,0.014,0.007,1.445
+,WIWA,Wilson's Warbler,4 km,0.008,0.094,0.051,2.384
+Songbird core habitat,BLBW_CORE,Blackburnian Warbler,4 km,0,0.192,0,1
+,BLPW_CORE,Blackpoll Warbler,4 km,0,0.279,0,1
+,BTNW_CORE,Black-throated Green Warbler,4 km,0,0.299,0,1
+,CAWA_CORE,Canada Warbler,4 km,0,0.294,0,1
+,CMWA_CORE,Cape May Warbler,4 km,0,0.219,0,1
+,HETH_CORE,Hermit Thrush,4 km,0,0.479,0,1
+,LCSP_CORE,Le Conte's Sparrow,4 km,0,0.286,0,1
+,OCWA_CORE,Orange-crowned Warbler,4 km,0,0.355,0,1
+,OSFL_CORE,Olive-sided Flycatcher,4 km,0,0.439,0,1
+,PISI_CORE,Pine Siskin,4 km,0,0.205,0,1
+,PUFI_CORE,Purple Finch,4 km,0,0.244,0,1
+,RUBL_CORE,Rusty Blackbird,4 km,0,0.379,0,1
+,WIWA_CORE,Wilson's Warbler,4 km,0,0.324,0,1
+Waterfowl guild density,AllWaterfowl,All waterfowl,10 km,0.079,0.508,0.388,8.975
+,CavityNesters,Cavity nesters,10 km,0.006,0.119,0.089,2.018
+,GroundNesters,Ground nesters,10 km,0.049,0.28,0.189,7.375
+,OverwaterNesters,Overwater nesters,10 km,0.01,0.109,0.069,2.604
+Waterfowl density,ABDU,American Black Duck,10 km,0,0.019,0.001,0.301
+,AGWT,Green-winged Teal,10 km,0.005,0.027,0.019,0.375
+,AMWI,American Wigeon,10 km,0.001,0.017,0.006,1.081
+,BWTE,Blue-winged Teal,10 km,0.001,0.01,0.002,1.303
+,GADW,Gadwall,10 km,0.001,0.009,0.001,1.909
+,MALL,Mallard,10 km,0.005,0.099,0.057,3.285
+,NOPI,Northern Pintail,10 km,0.001,0.018,0.005,1.315
+,NSHO,Northern Shoveler,10 km,0.001,0.016,0.002,1.3
+,BUFF,Bufflehead,10 km,0.001,0.039,0.016,1.568
+,GGOL,Goldeneye species,10 km,0.001,0.023,0.015,0.531
+,GMER,Merganser species,10 km,0.002,0.053,0.037,0.488
+,GSCO,Scoter species,10 km,0.001,0.085,0.017,8.674
+,CANV,Canvasback,10 km,0,0.006,0.001,1.336
+,REDH,Redhead,10 km,0,0.003,0.001,0.853
+,RNDU,Ring-necked Duck,10 km,0.002,0.028,0.019,0.479
+,RUDU,Ruddy Duck,10 km,0,0.001,0,0.252
+,GSCA,Scaup species,10 km,0.002,0.069,0.029,2.177
